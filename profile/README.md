@@ -20,6 +20,6 @@ This organization hosts the package manifests. The app itself is developed in [r
 
 ```sh
 brew install --cask skriuw/tap/skriuw                              # macOS
-scoop bucket add skriuw https://github.com/skriuw/homebrew-tap     # Windows
+scoop bucket add skriuw https://github.com/skriuw/scoop-bucket     # Windows
 scoop install skriuw
 ```
